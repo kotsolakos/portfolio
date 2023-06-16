@@ -1,5 +1,5 @@
 # Getting Started with Vite
-This project was bootstrapped with Create React App.
+This project was bootstrapped with Vite.
 
 ## Available Scripts
 In the project directory, you can run:
