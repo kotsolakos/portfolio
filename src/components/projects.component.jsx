@@ -26,7 +26,7 @@ const WordPressDesc = 'Introducing "Literary Haven" – an engaging website buil
                       ' displayed using a slideshow for each book category, the Genre page where all the available books are displayed, sorted in their specific categories' + 
                       ' and the About page where a description of the website is offered. Also each book has an individual post dedicated to it that can be accessed through' + 
                       " the entry it has in the Genre page, which has inside a description of the book as well as a link to the book's entry in gutenberg.org so that it" +
-                      ' can be read online';
+                      ' can be read online.';
 
 function Projects(){
     return(
